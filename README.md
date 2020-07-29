@@ -1,6 +1,6 @@
 # Hi, I'm Shaun 👋🏾
 
-<img align="left" src="img/ShaunHeader.png" />
+<img src="https://raw.githubusercontent.com/deshaunnascott/deshaunnascott/master/img/ShaunHeader.png" />
 <!--
 **deshaunnascott/deshaunnascott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
